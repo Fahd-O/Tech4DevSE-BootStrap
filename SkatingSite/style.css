@@ -56,3 +56,28 @@ h5.modal-title
 {
     padding: 15px;
 }
+
+.socialWrapper
+{
+    margin: auto;
+}
+
+.fa
+{
+    margin: 10px;
+}
+
+.fa-whatsapp
+{
+    color: #25d366;
+}
+
+.fa-linkedin-square
+{
+    color: #0a66c2;
+}
+
+.fa-code-fork
+{
+    color: #f5f5f5;
+}
